@@ -1,12 +1,32 @@
-- 👋 Hi, My name is Shivansh Sisodia
-- 🏫 I am a Second Year CSE undergrad @IIIT Bhubaneswar 
-- 👀 I’m interested in Web3 
-- 🌱 I’m currently learning more about DeFi 
-- 💞️ I’m looking to collaborate on interesting Web3 projects and DApps
-- 📫 Contact me @ shivanshsisodia07@gmail.com or my discord:shivansh_007
+# 👋 Hi, I'm Shivansh Sisodia!
 
+🚀 **Second-Year Student @ IIIT Bhubaneswar**  
+🛠️ **Fullstack Blockchain Developer**  
 
-<!---
-shivansh-see-saw07/shivansh-see-saw07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🌟 About Me
+
+I'm a passionate blockchain enthusiast and a skilled fullstack developer with expertise in building decentralized applications. My tech stack includes:
+
+- **Blockchain:** Solidity, Hardhat  
+- **Frontend:** React, Tailwind CSS  
+- **Backend:** Node.js  
+- **Other Tools:** Smart Contracts & Web3.js  
+
+I love creating innovative solutions to real-world problems through blockchain technology.  
+
+---
+
+## 🌟 Featured Project: [NFT Marketplace](https://github.com/shivansh-see-saw07/nft-marketplace)
+
+An end-to-end decentralized NFT Marketplace where users can mint, buy, and sell their NFTs seamlessly. Built with cutting-edge technologies like Solidity, Tailwind/CSS, and Hardhat, this project demonstrates my ability to merge blockchain and web development.
+
+---
+
+## 📫 Let's Connect!
+
+- **LinkedIn:** [Shivansh Sisodia](https://www.linkedin.com/in/shivansh-sisodia-541391284/)  
+- **Twitter:** [@SSquared_web3](https://x.com/SSquared_web3)  
+
+---
