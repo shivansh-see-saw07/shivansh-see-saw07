@@ -30,3 +30,4 @@ An end-to-end decentralized NFT Marketplace where users can mint, buy, and sell 
 - **Twitter:** [@SSquared_web3](https://x.com/SSquared_web3)  
 
 ---
+I like to work on new and unique projects , that foster creativity,and involve some form of innovation I dont believe in making things like a spotify clone or something like that just to crowd my github.
