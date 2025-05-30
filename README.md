@@ -7,14 +7,19 @@
 
 ## 🌟 About Me
 
-I'm a passionate blockchain enthusiast and a skilled fullstack developer with expertise in building decentralized applications. My tech stack includes:
+I'm a passionate blockchain enthusiast and a skilled fullstack developer with expertise in building decentralized applications.I love creating innovative solutions to real-world problems through blockchain technology. I like to work on new and unique projects , that foster creativity,and involve some form of innovation I don't believe in making things like a spotify clone or something like that just to crowd my github.
 
-- **Blockchain:** Solidity, Hardhat  
-- **Frontend:** React, Tailwind CSS  
-- **Backend:** Node.js  
-- **Other Tools:** Smart Contracts & Web3.js  
+## 🛠 Tech Stack
 
-I love creating innovative solutions to real-world problems through blockchain technology.  
+- **Languages**: Solidity, JavaScript
+- **Frameworks**: Hardhat
+- **Testing**: Mocha, Chai
+- **Blockchain Tools**: Ethers.js, Chainlink
+- **Package Manager**: Yarn
+- **Code Quality**: Prettier, Solhint
+- **Deployment**: Hardhat Ignition
+
+
 
 ---
 
@@ -30,4 +35,4 @@ An end-to-end decentralized NFT Marketplace where users can mint, buy, and sell 
 - **Twitter:** [@SSquared_web3](https://x.com/SSquared_web3)  
 
 ---
-I like to work on new and unique projects , that foster creativity,and involve some form of innovation I don't believe in making things like a spotify clone or something like that just to crowd my github.
+
