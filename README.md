@@ -11,13 +11,13 @@ I'm a passionate blockchain enthusiast and a skilled fullstack developer with ex
 
 ## 🛠 Tech Stack
 
-- **Languages**: Solidity, JavaScript
+- **Languages**: Solidity, JavaScript , Python 
 - **Frameworks**: Hardhat
 - **Testing**: Mocha, Chai
 - **Blockchain Tools**: Ethers.js, Chainlink
-- **Package Manager**: Yarn
+- **Package Manager**: Yarn , Node
 - **Code Quality**: Prettier, Solhint
-- **Deployment**: Hardhat Ignition
+
 
 
 
