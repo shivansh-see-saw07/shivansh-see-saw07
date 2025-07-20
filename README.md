@@ -23,10 +23,9 @@ I'm a passionate blockchain enthusiast and a skilled fullstack developer with ex
 
 ---
 
-## 🌟 Featured Project: [NFT Marketplace](https://github.com/shivansh-see-saw07/nft-marketplace)
+## 🌟 Featured Project: [DocGuard](https://doc-guard-taupe.vercel.app/)
 
-An end-to-end decentralized NFT Marketplace where users can mint, buy, and sell their NFTs seamlessly. Built with cutting-edge technologies like Solidity, Tailwind/CSS, and Hardhat, this project demonstrates my ability to merge blockchain and web development.
-
+A document verification system that leverages ocr , p-hash and the layer 2 arbitrum blockchain , to make a robust system that can be easily adopted in the real world .
 ---
 
 ## 📫 Let's Connect!
