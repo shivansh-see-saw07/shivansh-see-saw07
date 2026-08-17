@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shivansh Sisodia!
 
-🚀 **Third-Year Student @ IIIT Bhubaneswar**  
+🚀 **Final Year @ IIIT Bhubaneswar**  
 🛠️ **Fullstack Blockchain Developer**  
 
 ---
